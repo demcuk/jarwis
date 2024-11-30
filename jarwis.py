@@ -1,4 +1,4 @@
-from kanren import create_fact, run, fact, var, Relation, facts
+from jarwis import create_fact, run, fact, var, Relation, facts
 
 # Створення відносин для батька, матері і дітей
 parent = Relation()
